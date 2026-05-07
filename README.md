@@ -19,7 +19,7 @@ README.md
 - Pandas library
 - NumPy library
 - Udacity course material
----
 - Dataset provided by Udacity
 - Project inspired by the Bikeshare Project
 - Developed by Abd Ramila
+---
