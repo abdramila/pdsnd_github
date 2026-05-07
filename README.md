@@ -15,5 +15,11 @@ new_york_city.csv
 README.md
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+- Python documentation
+- Pandas library
+- NumPy library
+- Udacity course material
+---
+- Dataset provided by Udacity
+- Project inspired by the Bikeshare Project
+- Developed by Abd Ramila
